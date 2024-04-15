@@ -19,7 +19,7 @@ This repository showcases my skills and experience in various programming langua
 
 #### C#
 - :large_blue_circle: **Blazor:** 3/5
-- :computer: **ASP:** 3/5
+- :computer: **ASP.NET:** 4/5
 
 #### SQL
 - :file_folder: **MySQL:** 4/5
