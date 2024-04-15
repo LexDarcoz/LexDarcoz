@@ -13,6 +13,7 @@ This repository showcases my skills and experience in various programming langua
 
 #### JavaScript
 - :rocket: **React:** 5/5
+- 🚩: **Angular:** 4/5
 - :cyclone: **Koa:** 5/5
 - :eyes: **Cypress:** 4/5
 
