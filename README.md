@@ -21,6 +21,9 @@ This repository showcases my skills and experience in various programming langua
 - :large_blue_circle: **Blazor:** 3/5
 - :computer: **ASP.NET:** 4/5
 
+#### Android
+- :robot: **Kotlin:** 4/5
+
 #### SQL
 - :file_folder: **MySQL:** 4/5
 - :file_folder: **SQL Server:** 4/5
